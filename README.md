@@ -23,3 +23,6 @@ now the project will added to you local repository
  # git branching strategies:
 
  branching 
+ # git pull 
+
+ you can pull the git projects.
