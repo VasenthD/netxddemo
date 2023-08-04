@@ -21,3 +21,5 @@ now the project will added to you local repository
  git push
 
  # git branching strategies:
+
+ branching 
