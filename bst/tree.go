@@ -32,8 +32,9 @@ func display(head *node) {
 	if head == nil {
 		return
 	}
-	fmt.Printf("%d ", head.data)
+	
 	display(head.left)
+	fmt.Printf("%d ", head.data)
 	display(head.ring)
 }
 
